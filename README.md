@@ -29,3 +29,13 @@ Immmagine Stampante 3D
 
 ![Immagine £d Stanffdf](https://user-images.githubusercontent.com/101649675/160807429-78929ed3-00b2-450b-a93a-6ca109d6576d.png)
 
+
+
+
+
+
+
+Le basi per usare una stampante 3d
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PVfOYtJ5zMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
