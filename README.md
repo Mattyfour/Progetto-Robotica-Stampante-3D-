@@ -27,10 +27,6 @@ Immmagine Stampante 3D
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PVfOYtJ5zMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 Le basi per usare una stampante 3d
 
