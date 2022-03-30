@@ -23,4 +23,5 @@ Questo piccolo robottino non disponendo di un vero e prorpio inserto per applica
 un pannello solare necessita di un supporto per poter installare il nostro pannello
 solare, che andremo a creare usando il programma Solid Edge di Siemens,
 software di progettazione 2D/3D in grado di fare ciò che serve a noi
-![Imaggine Progetto Github](https://user-images.githubusercontent.com/101649675/160807106-26ed5ceb-58f6-4e92-a150-9b4c50aa5b68.jpg)
+Immmagine Stampante 3D
+![Immagine £d Stanffdf](https://user-images.githubusercontent.com/101649675/160807429-78929ed3-00b2-450b-a93a-6ca109d6576d.png)
