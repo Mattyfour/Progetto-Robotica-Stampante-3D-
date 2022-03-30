@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+STAMPANTE 3D
 
-You can use the [editor on GitHub](https://github.com/Mattyfour/Progetto-Robotica-Stampante-3D-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+La stampante 3D è una stampante in grado di realizzare oggetti tridimensionali,
+solitamente in materiali come plastica o simili, partendo da un progetto digitale
+creato su un computer con apposito software mediante un tipo di file 3D
+Nata nel 1986 creata da Chuck Hull, questa tipologia di stampa si è evoluta e
+sempre più perfezionata con nuove tecniche di stampa e materiali.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IL NOSTRO LAVORO CON LA STAMPANTE 3D
+Il nostro progetto con la stampa 3D consiste nel creare dei “supporti” validi per
+l’installazione di un pannello solare di piccole dimensioni da applicare su un mBot
+ovvero un piccolo robot prodotto da Makeblock in grado di svolgere diverse
+funzioni come ad esempio seguire una linea distesa su una superficie e addirittura
+riconoscere degli ostacoli, tutto questo con una semplice programmazione a
+blocchi che avviene attraverso l’apposito software installato su un computer.
+Codesto robot solitamente può essere alimentato tramite cavo USB collegandolo
+ad un PC, ma gode anche di una prorpia batteria alimentata tramite pile.
+Il nostro scopo è quello di ricaricare la batteria di mBot mediante un piccolo
+pannello solare, che esposto alla luce del sole è in grado di far funzionare il robot
+a pieno regime.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mattyfour/Progetto-Robotica-Stampante-3D-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Questo piccolo robottino non disponendo di un vero e prorpio inserto per applicare
+un pannello solare necessita di un supporto per poter installare il nostro pannello
+solare, che andremo a creare usando il programma Solid Edge di Siemens,
+software di progettazione 2D/3D in grado di fare ciò che serve a noi
