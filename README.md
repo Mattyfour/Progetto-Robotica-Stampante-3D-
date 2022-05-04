@@ -27,15 +27,6 @@ sempre più perfezionata con nuove tecniche di stampa e materiali.
 <p>L’hotend è la parte che si riscalda, sciogliendo il filamento e permettendo alla stampante di estrudere correttamente in modo fluido e regolare il materiale da stampa.</p>
 <h4>Per vedere l’approfondimento dedicato, guarda il nostro articolo:</h4>
 <p><a href="https://www.stampa3dperscuole.it/2020/01/29/hot-end-testina-di-stampa-3d-come-fatta/">Come è fatta la Testina di stampa? (Hot-end)</a></p>
-
-# Controlla la simulazione di stampa
-
-<p>Tieni presente che non esistono parametri universali che vanno bene per tutti gli oggetti. Ecco perchè <strong>controllare l’anteprima</strong>, e controllare l’oggetto mentre viene stampato, è fondamentale per poter correggere piccoli difetti al fine di trovare il profilo corretto per il pezzo in questione.</p>
-<h3>Non tutti i profili vanno bene per ogni oggetti…</h3>
-<h3>non tutti gli oggetti possono essere stampati con gli stessi parametri!</h3>
-<figure class="wp-block-image size-large"><img src="https://www.stampa3dperscuole.it/wp-content/uploads/2020/05/pathio-slicing-lessons-learning-how-to-slice-3d-printing-program-guide-course-supports4.gif" alt="Parametri, slicing, regole per stampare bene" class="wp-image-3044"><figcaption>Parametri di stampa  e visualizzazione strati</figcaption></figure>
-<p>Per imparare a stampare correttamente ed impostare i parametri con qualsiasi programma per <strong>fare i file di stampa 3D</strong>, ti consiglio di seguire un corso composto da 21 articoli dedicato allo sviluppo delle <strong><a href="https://www.stampa3dperscuole.it/category/cura-3d/">basi per lo slicing</a></strong>.</p>
-
 # IL NOSTRO LAVORO CON LA STAMPANTE 3D
 
 Il nostro progetto con la stampa 3D consiste nel creare dei “supporti” validi per
@@ -54,6 +45,15 @@ Questo piccolo robottino non disponendo di un vero e prorpio inserto per applica
 un pannello solare necessita di un supporto per poter installare il nostro pannello
 solare, che andremo a creare usando il programma Solid Edge di Siemens,
 software di progettazione 2D/3D in grado di fare ciò che serve a noi
+
+
+# Controlla la simulazione di stampa
+
+<p>Tieni presente che non esistono parametri universali che vanno bene per tutti gli oggetti. Ecco perchè <strong>controllare l’anteprima</strong>, e controllare l’oggetto mentre viene stampato, è fondamentale per poter correggere piccoli difetti al fine di trovare il profilo corretto per il pezzo in questione.</p>
+<h3>Non tutti i profili vanno bene per ogni oggetti…</h3>
+<h3>non tutti gli oggetti possono essere stampati con gli stessi parametri!</h3>
+<figure class="wp-block-image size-large"><img src="https://www.stampa3dperscuole.it/wp-content/uploads/2020/05/pathio-slicing-lessons-learning-how-to-slice-3d-printing-program-guide-course-supports4.gif" alt="Parametri, slicing, regole per stampare bene" class="wp-image-3044"><figcaption>Parametri di stampa  e visualizzazione strati</figcaption></figure>
+<p>Per imparare a stampare correttamente ed impostare i parametri con qualsiasi programma per <strong>fare i file di stampa 3D</strong>, ti consiglio di seguire un corso composto da 21 articoli dedicato allo sviluppo delle <strong><a href="https://www.stampa3dperscuole.it/category/cura-3d/">basi per lo slicing</a></strong>.</p>
 
 
 
