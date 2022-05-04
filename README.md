@@ -1,7 +1,7 @@
 # STAMPANTE 3D
 
 La stampante 3D è una stampante in grado di realizzare oggetti tridimensionali,
-solitamente in materiali come plastica o simili, partendo da un progetto digitale
+solitamente in materiali come plastica nylon, polimide o simili, partendo da un progetto digitale
 creato su un computer con apposito software mediante un tipo di file 3D
 Nata nel 1986 creata da Chuck Hull, questa tipologia di stampa si è evoluta e
 sempre più perfezionata con nuove tecniche di stampa e materiali.
