@@ -7,7 +7,6 @@ Nata nel 1986 creata da Chuck Hull, questa tipologia di stampa si è evoluta e
 sempre più perfezionata con nuove tecniche di stampa e materiali.
 
 
-# MA PRIMA DI SAPERE COSA ABBIAMOFATTO VI ELENCHIAMO LE 3 REGOLE FONDAMENTALI PER LA STAMPANTE 3D
 
 # Le basi per usare una stampante 3d
 
