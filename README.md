@@ -27,6 +27,7 @@ sempre più perfezionata con nuove tecniche di stampa e materiali.
 <p>L’hotend è la parte che si riscalda, sciogliendo il filamento e permettendo alla stampante di estrudere correttamente in modo fluido e regolare il materiale da stampa.</p>
 <h4>Per vedere l’approfondimento dedicato, guarda il nostro articolo:</h4>
 <p><a href="https://www.stampa3dperscuole.it/2020/01/29/hot-end-testina-di-stampa-3d-come-fatta/">Come è fatta la Testina di stampa? (Hot-end)</a></p>
+
 # IL NOSTRO LAVORO CON LA STAMPANTE 3D
 
 Il nostro progetto con la stampa 3D consiste nel creare dei “supporti” validi per
